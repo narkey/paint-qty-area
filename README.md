@@ -1,5 +1,6 @@
 # PaintQtyArea
 
+Angular project to calculate paint quantity based on surface area
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
 
 ## Development server
